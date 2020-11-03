@@ -1,0 +1,9 @@
+.controls-container button {
+  margin: 15px;
+  border: none;
+  background-color: rgb(204, 165, 9);
+  padding: 3px 12px;
+  font-size: 1.3rem;
+  font-weight: 400;
+  cursor: pointer;
+}
